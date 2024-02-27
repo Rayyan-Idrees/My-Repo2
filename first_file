@@ -1,2 +1,9 @@
 cout<<"Name:"Rayyan Idrees";
 cout<<"Roll No:"<<"23-ST-045";
+cout<<"FSc Subjects:";
+cout<<"Math';
+cout<<"Physics';
+cout<<"Chemistry";
+cout<<"English";
+cout<<"Pak Studies";
+cout<<"Urdu";
